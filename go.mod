@@ -1,4 +1,4 @@
-module github.com/Pedroxer/wbL0
+module github.com/PaulusSE/wb-task-l0
 
 go 1.21.0
 
