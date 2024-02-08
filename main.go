@@ -6,10 +6,10 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/PaulusSE/wbL0/api"
-	"github.com/PaulusSE/wbL0/db"
-	"github.com/PaulusSE/wbL0/db/sqlc"
-	"github.com/PaulusSE/wbL0/util"
+	"github.com/PaulusSE/wb-task-l0/api"
+	"github.com/PaulusSE/wb-task-l0/db"
+	"github.com/PaulusSE/wb-task-l0/db/sqlc"
+	"github.com/PaulusSE/wb-task-l0/util"
 	_ "github.com/lib/pq"
 	"github.com/nats-io/stan.go"
 )

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/PaulusSE/wbL0/db"
+	"github.com/PaulusSE/wb-task-l0/db"
 	"github.com/gin-gonic/gin"
 )
 

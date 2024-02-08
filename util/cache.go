@@ -4,7 +4,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/PaulusSE/wbL0/db"
+	"github.com/PaulusSE/wb-task-l0/db"
 )
 
 type Cache struct {

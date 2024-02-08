@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/PaulusSE/wbL0/util"
+	"github.com/PaulusSE/wb-task-l0/util"
 	"github.com/gin-gonic/gin"
 	"github.com/nats-io/stan.go"
 )
